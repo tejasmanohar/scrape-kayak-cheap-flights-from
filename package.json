@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tejasmanohar/scrape-kayak-cheap-flights-from/issues"
   },
-  "homepage": "https://github.com/tejasmanohar/scrape-kayak-cheap-flights-from"
+  "homepage": "https://github.com/tejasmanohar/scrape-kayak-cheap-flights-from",
+  "dependencies": {
+    "request": "^2.51.0"
+  }
 }
